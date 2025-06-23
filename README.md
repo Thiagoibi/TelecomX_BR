@@ -7,9 +7,8 @@ Este projeto tem como objetivo analisar os fatores que influenciam a evasão de 
 
 ## 📂 Estrutura do Projeto
 
-- `notebook.ipynb`: Notebook com todo o passo a passo da análise.
-- `imagens/`: Pasta contendo os gráficos gerados no projeto.
-- `dataset.csv`: Base de dados utilizada na análise.
+- `TelecomX_BR.ipynb`: Notebook com todo o passo a passo da análise.
+- `img/`: Pasta contendo os gráficos gerados no projeto.
 - `README.md`: Documento de apresentação do projeto.
 ---
 
@@ -49,7 +48,7 @@ Este projeto tem como objetivo analisar os fatores que influenciam a evasão de 
 - Churn por Tipo de Contrato
 - Gasto Mensal vs. Churn
 - Distribuição do Gasto Total por Churn
-- Distribuição do Tempo de Contrato por Churn
+- Churn Por temmpo de contrato
 ---
 
 ## 💡 Conclusões
